@@ -19,3 +19,7 @@ function newfeatureadd(){
     console.log("hey i am a new feature");
     console.log("hello another line");
 }
+
+function newB(){
+    console.log("added by aman");
+}
