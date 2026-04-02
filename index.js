@@ -14,3 +14,7 @@ function subtract(a, b) {
     return a - b;
 }  
 
+
+function newfeatureadd(){
+    console.log("hey i am a new feature");
+}
